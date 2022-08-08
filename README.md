@@ -23,5 +23,5 @@
 -->
 
 
-| <a href="https://github.com/chadwuo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chadwuo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="micahh's github stats" /></a> | <a href="https://github.com/chadwuo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwuo&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/chadwuo"><img align="center" src="https://github-readme-stats.vercel.app/api?username=chadwuo&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="chadwuo's github stats" /></a> | <a href="https://github.com/chadwuo"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chadwuo&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
