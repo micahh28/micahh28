@@ -8,12 +8,6 @@
 
 - 📫 我的邮箱: [chadwuo@outlook.com](mailto:chadwuo@outlook.com);
 
-<h2 align="left">👨🏻‍💻 关于我:</h2>
-
-- 具备的.NET 平台开发经验，熟悉 net6、webapi、mvc、webform、ef core、linq、sql server、wpf、winform、redis、socket 等技术栈
-- 具备 Vue2、Vue3、Vite、electron、tailwindcss、bootstrap、ant design Vue、element ui、layui、node、微信小程序、mongodb 开发经验
-- 具备软件职业资格(中级)软件设计师证书，能够独立完成软件设计工作
-
 <br>
 
 <h2 align="left">🛠️ 技术栈 与 开发工具:</h2>
